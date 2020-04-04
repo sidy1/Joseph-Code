@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.md
-permalink: /
+permalink: /home
 eleventyNavigation:
   key: Home
   order: 2
