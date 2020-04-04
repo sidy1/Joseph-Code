@@ -1,9 +1,8 @@
 ---
 layout: layouts/home.md
-permalink: /home
 eleventyNavigation:
   key: Home
-  order: 2
+  order: 1
 ---
 
-#This is a test
+# This is a test
